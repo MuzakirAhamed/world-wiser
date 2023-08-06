@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Nilambur",
+      "country": "India",
+      "date": "2023-08-01T05:30:04.749Z",
+      "emoji": "🇮🇳",
+      "notes": "hello",
+      "position": {
+        "lat": "11.26557385445828",
+        "lng": "76.15722656250001"
+      },
+      "id": 2
+    }
+  ]
+}
